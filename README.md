@@ -23,7 +23,7 @@ My main focus areas include:
 - MLOps
 - Platform Engineering
 - DevEx
-- Advanced Kubernetes=
+- Advanced Kubernetes
 
 ---
 
