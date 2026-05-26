@@ -23,7 +23,7 @@ My main focus areas include:
 - MLOps
 - Platform Engineering
 - DevEx
-- Advanced Kubernetes
+- Advanced Kubernetes=
 
 ---
 
@@ -66,8 +66,7 @@ My main focus areas include:
 ## 💻 Programming & Automation
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)=
 
 ---
 
@@ -78,14 +77,6 @@ My main focus areas include:
 ✅ AWS Certified Cloud Practitioner (CLF-C02)  
 ✅ OCI Certified Foundations Associate (1Z0-1085)  
 ✅ OCI Certified Architect Associate (1Z0-1072)
-
----
-
-# 📊 GitHub Stats
-
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -101,4 +92,4 @@ My main focus areas include:
 
 # 🌎 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-oliveira98/)
